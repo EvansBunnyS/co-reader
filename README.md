@@ -1,10 +1,10 @@
-# 📖 Co-Reader v3 — SillyTavern 共读批注扩展
+# 📖 Co-Reader v1.0 — SillyTavern 共读批注扩展
 
 将任何文章拖入 SillyTavern，与 AI 角色卡共读、批注、多轮对话。
 
 ---
 
-## ✨ v3 全功能一览
+## ✨ v1.0 全功能一览
 
 ### 📚 书架 & 封面
 | 功能 | 说明 |
