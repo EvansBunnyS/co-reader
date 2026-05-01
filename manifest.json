@@ -1,0 +1,12 @@
+{
+  "display_name": "Co-Reader 共读批注器",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "陆子慕",
+  "version": "1.0.0",
+  "homePage": "https://github.com/EvansBunnyS/co-reader",
+  "auto_update": false
+}
